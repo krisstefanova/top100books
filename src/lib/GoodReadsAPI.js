@@ -9,7 +9,7 @@ async function getGoodReadsStats(searchBook) {
   const res = await fetch(url)
   const book = await xmlToJson(res)
   
-  return presentBook(book)
+  return [presentBook(book)]
 }
 
 async function xmlToJson(res) {
