@@ -1,0 +1,702 @@
+[
+   {
+      "id": "2767052",
+      "title": "The Hunger Games (The Hunger Games, #1)",
+      "author": "Suzanne Collins",
+      "rating": " 4.34 avg rating — 5,322,842 ratings",
+      "img": "https://images.gr-assets.com/books/1447303603s/2767052.jpg"
+   },
+   {
+      "id": "2",
+      "title": "Harry Potter and the Order of the Phoenix (Harry Potter, #5)",
+      "author": "J.K. Rowling",
+      "rating": " 4.47 avg rating — 1,964,306 ratings",
+      "img": "https://images.gr-assets.com/books/1507396732s/2.jpg"
+   },
+   {
+      "id": "2657",
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "rating": " 4.26 avg rating — 3,575,757 ratings",
+      "img": "https://images.gr-assets.com/books/1361975680s/2657.jpg"
+   },
+   {
+      "id": "1885",
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "rating": " 4.25 avg rating — 2,347,782 ratings",
+      "img": "https://images.gr-assets.com/books/1320399351s/1885.jpg"
+   },
+   {
+      "id": "41865",
+      "title": "Twilight (Twilight, #1)",
+      "author": "Stephenie Meyer",
+      "rating": " 3.58 avg rating — 4,153,989 ratings",
+      "img": "https://images.gr-assets.com/books/1361039443s/41865.jpg"
+   },
+   {
+      "id": "19063",
+      "title": "The Book Thief",
+      "author": "Markus Zusak",
+      "rating": " 4.36 avg rating — 1,414,134 ratings",
+      "img": "https://images.gr-assets.com/books/1522157426s/19063.jpg"
+   },
+   {
+      "id": "11127",
+      "title": "The Chronicles of Narnia (Chronicles of Narnia, #1-7)",
+      "author": "C.S. Lewis",
+      "rating": " 4.25 avg rating — 425,289 ratings",
+      "img": "https://images.gr-assets.com/books/1449868701s/11127.jpg"
+   },
+   {
+      "id": "7613",
+      "title": "Animal Farm",
+      "author": "George Orwell",
+      "rating": " 3.89 avg rating — 2,144,613 ratings",
+      "img": "https://images.gr-assets.com/books/1424037542s/7613.jpg"
+   },
+   {
+      "id": "18405",
+      "title": "Gone with the Wind",
+      "author": "Margaret Mitchell",
+      "rating": " 4.28 avg rating — 945,081 ratings",
+      "img": "https://images.gr-assets.com/books/1328025229s/18405.jpg"
+   },
+   {
+      "id": "30",
+      "title": "J.R.R. Tolkien 4-Book Boxed Set: The Hobbit and The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "rating": " 4.59 avg rating — 98,120 ratings",
+      "img": "https://images.gr-assets.com/books/1346072396s/30.jpg"
+   },
+   {
+      "id": "11870085",
+      "title": "The Fault in Our Stars",
+      "author": "John Green",
+      "rating": " 4.25 avg rating — 2,743,579 ratings",
+      "img": "https://images.gr-assets.com/books/1360206420s/11870085.jpg"
+   },
+   {
+      "id": "11",
+      "title": "The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1)",
+      "author": "Douglas Adams",
+      "rating": " 4.21 avg rating — 1,097,254 ratings",
+      "img": "https://images.gr-assets.com/books/1513003890s/11.jpg"
+   },
+   {
+      "id": "370493",
+      "title": "The Giving Tree",
+      "author": "Shel Silverstein",
+      "rating": " 4.37 avg rating — 764,106 ratings",
+      "img": "https://images.gr-assets.com/books/1174210942s/370493.jpg"
+   },
+   {
+      "id": "6185",
+      "title": "Wuthering Heights",
+      "author": "Emily Brontë",
+      "rating": " 3.83 avg rating — 1,078,441 ratings",
+      "img": "https://images.gr-assets.com/books/1388212715s/6185.jpg"
+   },
+   {
+      "id": "968",
+      "title": "The Da Vinci Code (Robert Langdon, #2)",
+      "author": "Dan Brown",
+      "rating": " 3.80 avg rating — 1,627,305 ratings",
+      "img": "https://images.gr-assets.com/books/1303252999s/968.jpg"
+   },
+   {
+      "id": "930",
+      "title": "Memoirs of a Geisha",
+      "author": "Arthur Golden",
+      "rating": " 4.09 avg rating — 1,488,747 ratings",
+      "img": "https://images.gr-assets.com/books/1388367666s/930.jpg"
+   },
+   {
+      "id": "24213",
+      "title": "Alice's Adventures in Wonderland & Through the Looking-Glass",
+      "author": "Lewis Carroll",
+      "rating": " 4.07 avg rating — 402,738 ratings",
+      "img": "https://images.gr-assets.com/books/1327872220s/24213.jpg"
+   },
+   {
+      "id": "5297",
+      "title": "The Picture of Dorian Gray",
+      "author": "Oscar Wilde",
+      "rating": " 4.06 avg rating — 740,054 ratings",
+      "img": "https://images.gr-assets.com/books/1424596966s/5297.jpg"
+   },
+   {
+      "id": "24280",
+      "title": "Les Misérables",
+      "author": "Victor Hugo",
+      "rating": " 4.15 avg rating — 594,383 ratings",
+      "img": "https://images.gr-assets.com/books/1525303092s/24280.jpg"
+   },
+   {
+      "id": "13335037",
+      "title": "Divergent (Divergent, #1)",
+      "author": "Veronica Roth",
+      "rating": " 4.23 avg rating — 2,399,280 ratings",
+      "img": "https://images.gr-assets.com/books/1328559506s/13335037.jpg"
+   },
+   {
+      "id": "18135",
+      "title": "Romeo and Juliet",
+      "author": "William Shakespeare",
+      "rating": " 3.74 avg rating — 1,770,143 ratings",
+      "img": "https://images.gr-assets.com/books/1327872146s/18135.jpg"
+   },
+   {
+      "id": "10210",
+      "title": "Jane Eyre",
+      "author": "Charlotte Brontë",
+      "rating": " 4.11 avg rating — 1,339,283 ratings",
+      "img": "https://images.gr-assets.com/books/1327867269s/10210.jpg"
+   },
+   {
+      "id": "7624",
+      "title": "Lord of the Flies",
+      "author": "William Golding",
+      "rating": " 3.65 avg rating — 1,787,116 ratings",
+      "img": "https://images.gr-assets.com/books/1327869409s/7624.jpg"
+   },
+   {
+      "id": "865",
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "rating": " 3.83 avg rating — 1,558,253 ratings",
+      "img": "https://images.gr-assets.com/books/1483412266s/865.jpg"
+   },
+   {
+      "id": "7144",
+      "title": "Crime and Punishment",
+      "author": "Fyodor Dostoyevsky",
+      "rating": " 4.19 avg rating — 485,323 ratings",
+      "img": "https://images.gr-assets.com/books/1382846449s/7144.jpg"
+   },
+   {
+      "id": "375802",
+      "title": "Ender's Game (Ender's Saga, #1)",
+      "author": "Orson Scott Card",
+      "rating": " 4.30 avg rating — 932,305 ratings",
+      "img": "https://images.gr-assets.com/books/1408303130s/375802.jpg"
+   },
+   {
+      "id": "256683",
+      "title": "City of Bones (The Mortal Instruments, #1)",
+      "author": "Cassandra Clare",
+      "rating": " 4.12 avg rating — 1,334,826 ratings",
+      "img": "https://images.gr-assets.com/books/1432730315s/256683.jpg"
+   },
+   {
+      "id": "22628",
+      "title": "The Perks of Being a Wallflower",
+      "author": "Stephen Chbosky",
+      "rating": " 4.21 avg rating — 1,026,477 ratings",
+      "img": "https://images.gr-assets.com/books/1520093244s/22628.jpg"
+   },
+   {
+      "id": "4667024",
+      "title": "The Help",
+      "author": "Kathryn Stockett",
+      "rating": " 4.46 avg rating — 1,724,865 ratings",
+      "img": "https://images.gr-assets.com/books/1346100365s/4667024.jpg"
+   },
+   {
+      "id": "18619684",
+      "title": "The Time Traveler's Wife",
+      "author": "Audrey Niffenegger",
+      "rating": " 3.95 avg rating — 1,375,622 ratings",
+      "img": "https://images.gr-assets.com/books/1380660571s/18619684.jpg"
+   },
+   {
+      "id": "24178",
+      "title": "Charlotte's Web",
+      "author": "E.B. White",
+      "rating": " 4.15 avg rating — 1,166,416 ratings",
+      "img": "https://images.gr-assets.com/books/1439632243s/24178.jpg"
+   },
+   {
+      "id": "4671",
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "rating": " 3.90 avg rating — 3,022,824 ratings",
+      "img": "https://images.gr-assets.com/books/1490528560s/4671.jpg"
+   },
+   {
+      "id": "8127",
+      "title": "Anne of Green Gables (Anne of Green Gables, #1)",
+      "author": "L.M. Montgomery",
+      "rating": " 4.23 avg rating — 575,618 ratings",
+      "img": "https://images.gr-assets.com/books/1390789015s/8127.jpg"
+   },
+   {
+      "id": "890",
+      "title": "Of Mice and Men",
+      "author": "John Steinbeck",
+      "rating": " 3.85 avg rating — 1,611,088 ratings",
+      "img": "https://images.gr-assets.com/books/1511302904s/890.jpg"
+   },
+   {
+      "id": "17245",
+      "title": "Dracula",
+      "author": "Bram Stoker",
+      "rating": " 3.98 avg rating — 744,557 ratings",
+      "img": "https://images.gr-assets.com/books/1387151694s/17245.jpg"
+   },
+   {
+      "id": "5129",
+      "title": "Brave New World",
+      "author": "Aldous Huxley",
+      "rating": " 3.97 avg rating — 1,159,910 ratings",
+      "img": "https://images.gr-assets.com/books/1523061131s/5129.jpg"
+   },
+   {
+      "id": "320",
+      "title": "One Hundred Years of Solitude",
+      "author": "Gabriel García Márquez",
+      "rating": " 4.05 avg rating — 609,778 ratings",
+      "img": "https://images.gr-assets.com/books/1327881361s/320.jpg"
+   },
+   {
+      "id": "21787",
+      "title": "The Princess Bride",
+      "author": "William Goldman",
+      "rating": " 4.25 avg rating — 671,202 ratings",
+      "img": "https://images.gr-assets.com/books/1327903636s/21787.jpg"
+   },
+   {
+      "id": "157993",
+      "title": "The Little Prince",
+      "author": "Antoine de Saint-Exupéry",
+      "rating": " 4.29 avg rating — 962,458 ratings",
+      "img": "https://images.gr-assets.com/books/1367545443s/157993.jpg"
+   },
+   {
+      "id": "2998",
+      "title": "The Secret Garden",
+      "author": "Frances Hodgson Burnett",
+      "rating": " 4.12 avg rating — 740,598 ratings",
+      "img": "https://images.gr-assets.com/books/1327873635s/2998.jpg"
+   },
+   {
+      "id": "128029",
+      "title": "A Thousand Splendid Suns",
+      "author": "Khaled Hosseini",
+      "rating": " 4.35 avg rating — 927,861 ratings",
+      "img": "https://images.gr-assets.com/books/1345958969s/128029.jpg"
+   },
+   {
+      "id": "18131",
+      "title": "A Wrinkle in Time (Time Quintet, #1)",
+      "author": "Madeleine L'Engle",
+      "rating": " 4.03 avg rating — 755,619 ratings",
+      "img": "https://images.gr-assets.com/books/1329061522s/18131.jpg"
+   },
+   {
+      "id": "5107",
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "rating": " 3.80 avg rating — 2,266,483 ratings",
+      "img": "https://images.gr-assets.com/books/1398034300s/5107.jpg"
+   },
+   {
+      "id": "4381",
+      "title": "Fahrenheit 451",
+      "author": "Ray Bradbury",
+      "rating": " 3.98 avg rating — 1,261,966 ratings",
+      "img": "https://images.gr-assets.com/books/1351643740s/4381.jpg"
+   },
+   {
+      "id": "2956",
+      "title": "The Adventures of Huckleberry Finn",
+      "author": "Mark Twain",
+      "rating": " 3.81 avg rating — 1,042,386 ratings",
+      "img": "https://images.gr-assets.com/books/1405973850s/2956.jpg"
+   },
+   {
+      "id": "12232938",
+      "title": "The Lovely Bones",
+      "author": "Alice Sebold",
+      "rating": " 3.78 avg rating — 1,743,627 ratings",
+      "img": "https://images.gr-assets.com/books/1457810586s/12232938.jpg"
+   },
+   {
+      "id": "13496",
+      "title": "A Game of Thrones (A Song of Ice and Fire, #1)",
+      "author": "George R.R. Martin",
+      "rating": " 4.45 avg rating — 1,582,304 ratings",
+      "img": "https://images.gr-assets.com/books/1436732693s/13496.jpg"
+   },
+   {
+      "id": "28187",
+      "title": "The Lightning Thief (Percy Jackson and the Olympians, #1)",
+      "author": "Rick Riordan",
+      "rating": " 4.23 avg rating — 1,547,504 ratings",
+      "img": "https://images.gr-assets.com/books/1400602609s/28187.jpg"
+   },
+   {
+      "id": "19543",
+      "title": "Where the Wild Things Are",
+      "author": "Maurice Sendak",
+      "rating": " 4.22 avg rating — 683,746 ratings",
+      "img": "https://images.gr-assets.com/books/1384434560s/19543.jpg"
+   },
+   {
+      "id": "23772",
+      "title": "Green Eggs and Ham",
+      "author": "Dr. Seuss",
+      "rating": " 4.30 avg rating — 498,655 ratings",
+      "img": "https://images.gr-assets.com/books/1468680100s/23772.jpg"
+   },
+   {
+      "id": "4214",
+      "title": "Life of Pi",
+      "author": "Yann Martel",
+      "rating": " 3.89 avg rating — 1,111,827 ratings",
+      "img": "https://images.gr-assets.com/books/1320562005s/4214.jpg"
+   },
+   {
+      "id": "1953",
+      "title": "A Tale of Two Cities",
+      "author": "Charles Dickens",
+      "rating": " 3.82 avg rating — 706,891 ratings",
+      "img": "https://images.gr-assets.com/books/1344922523s/1953.jpg"
+   },
+   {
+      "id": "43641",
+      "title": "Water for Elephants",
+      "author": "Sara Gruen",
+      "rating": " 4.07 avg rating — 1,162,348 ratings",
+      "img": "https://images.gr-assets.com/books/1494428973s/43641.jpg"
+   },
+   {
+      "id": "231804",
+      "title": "The Outsiders",
+      "author": "S.E. Hinton",
+      "rating": " 4.07 avg rating — 728,156 ratings",
+      "img": "https://images.gr-assets.com/books/1442129426s/231804.jpg"
+   },
+   {
+      "id": "1381",
+      "title": "The Odyssey",
+      "author": "Homer",
+      "rating": " 3.74 avg rating — 747,071 ratings",
+      "img": "https://images.gr-assets.com/books/1390173285s/1381.jpg"
+   },
+   {
+      "id": "3",
+      "title": "Harry Potter and the Sorcerer's Stone (Harry Potter, #1)",
+      "author": "J.K. Rowling",
+      "rating": " 4.45 avg rating — 5,314,465 ratings",
+      "img": "https://images.gr-assets.com/books/1474154022s/3.jpg"
+   },
+   {
+      "id": "7604",
+      "title": "Lolita",
+      "author": "Vladimir Nabokov",
+      "rating": " 3.89 avg rating — 545,857 ratings",
+      "img": "https://images.gr-assets.com/books/1377756377s/7604.jpg"
+   },
+   {
+      "id": "4981",
+      "title": "Slaughterhouse-Five",
+      "author": "Kurt Vonnegut",
+      "rating": " 4.06 avg rating — 947,739 ratings",
+      "img": "https://images.gr-assets.com/books/1440319389s/4981.jpg"
+   },
+   {
+      "id": "168668",
+      "title": "Catch-22 (Catch-22 #1)",
+      "author": "Joseph Heller",
+      "rating": " 3.98 avg rating — 620,752 ratings",
+      "img": "https://images.gr-assets.com/books/1463157317s/168668.jpg"
+   },
+   {
+      "id": "18490",
+      "title": "Frankenstein",
+      "author": "Mary Wollstonecraft Shelley",
+      "rating": " 3.76 avg rating — 938,998 ratings",
+      "img": "https://images.gr-assets.com/books/1381512375s/18490.jpg"
+   },
+   {
+      "id": "234225",
+      "title": "Dune (Dune Chronicles, #1)",
+      "author": "Frank Herbert",
+      "rating": " 4.20 avg rating — 563,062 ratings",
+      "img": "https://images.gr-assets.com/books/1434908555s/234225.jpg"
+   },
+   {
+      "id": "5043",
+      "title": "The Pillars of the Earth (Kingsbridge, #1)",
+      "author": "Ken Follett",
+      "rating": " 4.30 avg rating — 532,890 ratings",
+      "img": "https://images.gr-assets.com/books/1388193707s/5043.jpg"
+   },
+   {
+      "id": "77203",
+      "title": "The Kite Runner",
+      "author": "Khaled Hosseini",
+      "rating": " 4.27 avg rating — 2,007,481 ratings",
+      "img": "https://images.gr-assets.com/books/1484565687s/77203.jpg"
+   },
+   {
+      "id": "149267",
+      "title": "The Stand",
+      "author": "Stephen King",
+      "rating": " 4.34 avg rating — 506,245 ratings",
+      "img": "https://images.gr-assets.com/books/1213131305s/149267.jpg"
+   },
+   {
+      "id": "3636",
+      "title": "The Giver (The Giver, #1)",
+      "author": "Lois Lowry",
+      "rating": " 4.12 avg rating — 1,394,903 ratings",
+      "img": "https://images.gr-assets.com/books/1342493368s/3636.jpg"
+   },
+   {
+      "id": "76620",
+      "title": "Watership Down (Watership Down, #1)",
+      "author": "Richard  Adams",
+      "rating": " 4.06 avg rating — 323,634 ratings",
+      "img": "https://images.gr-assets.com/books/1405136931s/76620.jpg"
+   },
+   {
+      "id": "3590",
+      "title": "The Adventures of Sherlock Holmes",
+      "author": "Arthur Conan Doyle",
+      "rating": " 4.30 avg rating — 199,711 ratings",
+      "img": "https://images.gr-assets.com/books/1164045516s/3590.jpg"
+   },
+   {
+      "id": "38447",
+      "title": "The Handmaid's Tale",
+      "author": "Margaret Atwood",
+      "rating": " 4.08 avg rating — 840,450 ratings",
+      "img": "https://images.gr-assets.com/books/1498057733s/38447.jpg"
+   },
+   {
+      "id": "10917",
+      "title": "My Sister's Keeper",
+      "author": "Jodi Picoult",
+      "rating": " 4.06 avg rating — 932,892 ratings",
+      "img": "https://images.gr-assets.com/books/1369504683s/10917.jpg"
+   },
+   {
+      "id": "332613",
+      "title": "One Flew Over the Cuckoo's Nest",
+      "author": "Ken Kesey",
+      "rating": " 4.19 avg rating — 535,263 ratings",
+      "img": "https://images.gr-assets.com/books/1516211014s/332613.jpg"
+   },
+   {
+      "id": "6514",
+      "title": "The Bell Jar",
+      "author": "Sylvia Plath",
+      "rating": " 3.99 avg rating — 473,301 ratings",
+      "img": "https://images.gr-assets.com/books/1473890514s/6514.jpg"
+   },
+   {
+      "id": "10964",
+      "title": "Outlander (Outlander, #1)",
+      "author": "Diana Gabaldon",
+      "rating": " 4.21 avg rating — 637,031 ratings",
+      "img": "https://images.gr-assets.com/books/1402600310s/10964.jpg"
+   },
+   {
+      "id": "15823480",
+      "title": "Anna Karenina",
+      "author": "Leo Tolstoy",
+      "rating": " 4.03 avg rating — 511,159 ratings",
+      "img": "https://images.gr-assets.com/books/1352422904s/15823480.jpg"
+   },
+   {
+      "id": "17899948",
+      "title": "Rebecca",
+      "author": "Daphne du Maurier",
+      "rating": " 4.21 avg rating — 352,874 ratings",
+      "img": "https://images.gr-assets.com/books/1386605169s/17899948.jpg"
+   },
+   {
+      "id": "2429135",
+      "title": "The Girl with the Dragon Tattoo (Millennium, #1)",
+      "author": "Stieg Larsson",
+      "rating": " 4.12 avg rating — 2,097,766 ratings",
+      "img": "https://images.gr-assets.com/books/1327868566s/2429135.jpg"
+   },
+   {
+      "id": "14891",
+      "title": "A Tree Grows in Brooklyn",
+      "author": "Betty  Smith",
+      "rating": " 4.25 avg rating — 323,421 ratings",
+      "img": "https://images.gr-assets.com/books/1327883484s/14891.jpg"
+   },
+   {
+      "id": "11486",
+      "title": "The Color Purple",
+      "author": "Alice Walker",
+      "rating": " 4.18 avg rating — 425,111 ratings",
+      "img": "https://images.gr-assets.com/books/1386925078s/11486.jpg"
+   },
+   {
+      "id": "39988",
+      "title": "Matilda",
+      "author": "Roald Dahl",
+      "rating": " 4.29 avg rating — 483,611 ratings",
+      "img": "https://images.gr-assets.com/books/1388793265s/39988.jpg"
+   },
+   {
+      "id": "1934",
+      "title": "Little Women (Little Women, #1)",
+      "author": "Louisa May Alcott",
+      "rating": " 4.05 avg rating — 1,389,811 ratings",
+      "img": "https://images.gr-assets.com/books/1388269517s/1934.jpg"
+   },
+   {
+      "id": "34",
+      "title": "The Fellowship of the Ring (The Lord of the Rings, #1)",
+      "author": "J.R.R. Tolkien",
+      "rating": " 4.34 avg rating — 1,954,738 ratings",
+      "img": "https://images.gr-assets.com/books/1298411339s/34.jpg"
+   },
+   {
+      "id": "252577",
+      "title": "Angela's Ashes (Frank McCourt, #1)",
+      "author": "Frank McCourt",
+      "rating": " 4.08 avg rating — 450,570 ratings",
+      "img": "https://images.gr-assets.com/books/1348317139s/252577.jpg"
+   },
+   {
+      "id": "6288",
+      "title": "The Road",
+      "author": "Cormac McCarthy",
+      "rating": " 3.96 avg rating — 593,184 ratings",
+      "img": "https://images.gr-assets.com/books/1439197219s/6288.jpg"
+   },
+   {
+      "id": "227463",
+      "title": "A Clockwork Orange",
+      "author": "Anthony Burgess",
+      "rating": " 3.98 avg rating — 489,193 ratings",
+      "img": "https://images.gr-assets.com/books/1348339306s/227463.jpg"
+   },
+   {
+      "id": "4934",
+      "title": "The Brothers Karamazov",
+      "author": "Fyodor Dostoyevsky",
+      "rating": " 4.31 avg rating — 189,445 ratings",
+      "img": "https://images.gr-assets.com/books/1427728126s/4934.jpg"
+   },
+   {
+      "id": "18660669",
+      "title": "Vampire Academy (Vampire Academy #1)",
+      "author": "Richelle Mead",
+      "rating": " 4.13 avg rating — 477,797 ratings",
+      "img": "https://images.gr-assets.com/books/1381459853s/18660669.jpg"
+   },
+   {
+      "id": "7244",
+      "title": "The Poisonwood Bible",
+      "author": "Barbara Kingsolver",
+      "rating": " 4.03 avg rating — 583,630 ratings",
+      "img": "https://images.gr-assets.com/books/1412242487s/7244.jpg"
+   },
+   {
+      "id": "52036",
+      "title": "Siddhartha",
+      "author": "Hermann Hesse",
+      "rating": "really liked it 4.00 avg rating — 452,400 ratings",
+      "img": "https://images.gr-assets.com/books/1428715580s/52036.jpg"
+   },
+   {
+      "id": "662",
+      "title": "Atlas Shrugged",
+      "author": "Ayn Rand",
+      "rating": " 3.68 avg rating — 312,761 ratings",
+      "img": "https://images.gr-assets.com/books/1405868167s/662.jpg"
+   },
+   {
+      "id": "3836",
+      "title": "Don Quixote",
+      "author": "Miguel de Cervantes Saavedra",
+      "rating": " 3.86 avg rating — 168,598 ratings",
+      "img": "https://images.gr-assets.com/books/1364958765s/3836.jpg"
+   },
+   {
+      "id": "17470674",
+      "title": "Fahrenheit 451",
+      "author": "Ray Bradbury",
+      "rating": " 3.98 avg rating — 1,261,966 ratings",
+      "img": "https://images.gr-assets.com/books/1469704347s/17470674.jpg"
+   },
+   {
+      "id": "119322",
+      "title": "The Golden Compass (His Dark Materials, #1)",
+      "author": "Philip Pullman",
+      "rating": " 3.95 avg rating — 1,061,269 ratings",
+      "img": "https://images.gr-assets.com/books/1505766203s/119322.jpg"
+   },
+   {
+      "id": "136251",
+      "title": "Harry Potter and the Deathly Hallows (Harry Potter, #7)",
+      "author": "J.K. Rowling",
+      "rating": " 4.62 avg rating — 1,987,629 ratings",
+      "img": "https://images.gr-assets.com/books/1474171184s/136251.jpg"
+   },
+   {
+      "id": "15931",
+      "title": "The Notebook (The Notebook, #1)",
+      "author": "Nicholas Sparks",
+      "rating": " 4.07 avg rating — 1,114,638 ratings",
+      "img": "https://images.gr-assets.com/books/1385738917s/15931.jpg"
+   },
+   {
+      "id": "2165",
+      "title": "The Old Man and the Sea",
+      "author": "Ernest Hemingway",
+      "rating": " 3.74 avg rating — 630,676 ratings",
+      "img": "https://images.gr-assets.com/books/1329189714s/2165.jpg"
+   },
+   {
+      "id": "2619",
+      "title": "Great Expectations",
+      "author": "Charles Dickens",
+      "rating": " 3.76 avg rating — 543,527 ratings",
+      "img": "https://images.gr-assets.com/books/1309639398s/2619.jpg"
+   },
+   {
+      "id": "4473",
+      "title": "A Prayer for Owen Meany",
+      "author": "John Irving",
+      "rating": " 4.23 avg rating — 256,329 ratings",
+      "img": "https://images.gr-assets.com/books/1260470010s/4473.jpg"
+   },
+   {
+      "id": "23919",
+      "title": "The Complete Stories and Poems",
+      "author": "Edgar Allan Poe",
+      "rating": " 4.37 avg rating — 167,206 ratings",
+      "img": "https://images.gr-assets.com/books/1327942676s/23919.jpg"
+   },
+   {
+      "id": "153747",
+      "title": "Moby-Dick or, The Whale",
+      "author": "Herman Melville",
+      "rating": " 3.48 avg rating — 419,662 ratings",
+      "img": "https://images.gr-assets.com/books/1327940656s/153747.jpg"
+   },
+   {
+      "id": "99107",
+      "title": "Winnie-the-Pooh (Winnie-the-Pooh, #1)",
+      "author": "A.A. Milne",
+      "rating": " 4.34 avg rating — 224,207 ratings",
+      "img": "https://images.gr-assets.com/books/1298440130s/99107.jpg"
+   },
+   {
+      "id": "43763",
+      "title": "Interview with the Vampire (The Vampire Chronicles, #1)",
+      "author": "Anne Rice",
+      "rating": " 3.98 avg rating — 416,652 ratings",
+      "img": "https://images.gr-assets.com/books/1380631642s/43763.jpg"
+   }
+]

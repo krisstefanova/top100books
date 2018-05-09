@@ -7,7 +7,8 @@
     "start": "node src/server.js",
     "test": "./node_modules/.bin/eslint **/*.js  && ./node_modules/mocha/bin/mocha -t 10000 --recursive",
     "eslint": "./node_modules/.bin/eslint **/*.js",
-    "dev": "./node_modules/.bin/nodemon src/server.js"
+    "dev": "./node_modules/.bin/nodemon src/server.js",
+    "scrape": "node src/scraper.js"
   },
   "repository": {
     "type": "git",
@@ -23,6 +24,7 @@
   },
   "homepage": "https://github.com/krisstefanova/top100books#readme",
   "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
     "dotenv": "^5.0.1",
     "express": "^4.16.3",
     "moment": "^2.22.1",
