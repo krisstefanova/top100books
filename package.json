@@ -8,7 +8,9 @@
     "test": "./node_modules/.bin/eslint **/*.js  && ./node_modules/mocha/bin/mocha -t 10000 --recursive",
     "eslint": "./node_modules/.bin/eslint **/*.js",
     "dev": "./node_modules/.bin/nodemon src/server.js",
-    "scrape": "node src/scraper.js"
+    "scrape": "node src/scraper.js",
+    "db:create": "sh scripts/create-migration.sh",
+    "db:migrate": "node scripts/run-migration.js"
   },
   "repository": {
     "type": "git",
@@ -30,6 +32,7 @@
     "moment": "^2.22.1",
     "node-fetch": "^2.1.2",
     "nodemon": "^1.17.3",
+    "postgrator": "^3.6.0",
     "query-string": "^6.0.0",
     "xml2js": "^0.4.19"
   },
