@@ -7,6 +7,8 @@ router.route('/').get((req, res) => {
   return res.json({message: "Welcome to this delicious and very vast book service!"})
 })
 
-router.route('/getData').get(bookStatsController.getData)
+router.route('/searchBook').get(bookStatsController.searchBook)
+
+router.route('/getTopBooks').get(bookStatsController.getTopBooks)
 
 module.exports = router

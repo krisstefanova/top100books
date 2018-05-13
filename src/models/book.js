@@ -20,7 +20,13 @@ const saveBook = async function(id, title, author, rating, count, img) {
   return success
 }
 
+const getTopBooks = async function() {
+  const res = await sql(queries.getTopBooks)
+  return res.rows
+}
+
 module.exports = {
   getAllBooks,
-  saveBook
+  saveBook,
+  getTopBooks
 }
