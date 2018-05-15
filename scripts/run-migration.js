@@ -2,7 +2,7 @@ const Postgrator = require('postgrator')
 require('dotenv').config()
 
 const postgrator = new Postgrator({
-  migrationDirectory: __dirname + '/migrations',
+  migrationDirectory: `${__dirname}/migrations`,
   driver: 'pg',
   host: '127.0.0.1',
   port: 5432,
