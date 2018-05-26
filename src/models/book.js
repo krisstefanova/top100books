@@ -1,5 +1,6 @@
 const sql = require('../lib/sql.js')
 const queries = require('./queries')
+const aggregator = require('./bookAggregator.js')
 
 const getAllBooks = async function() {
   const books = await sql(queries.allBooks)
@@ -21,8 +22,9 @@ const saveBook = async function(id, title, author, rating, count, img) {
 }
 
 const getTopBooks = async function() {
-  const res = await sql(queries.getTopBooks)
-  return res.rows
+  const books = await sql(queries.getTopBooks)
+  const res = aggregator(books.rows)
+  return res
 }
 
 module.exports = {
