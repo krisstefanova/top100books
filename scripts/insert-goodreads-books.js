@@ -7,7 +7,7 @@ const main = function () {
     book.rating = book.rating.replace(/,/g, '')
     let rating = book.rating.match(pattern)
 
-    await bookModel.saveBook(book.id, book.title, book.author, rating[0], rating[1], book.img)
+    await bookModel.saveBook(book.id, book.title, book.author, rating[0], rating[1], book.img, 'goodreads')
   })
 }
 

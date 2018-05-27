@@ -7,9 +7,9 @@ const getAllBooks = async function() {
   return books.rows
 }
 
-const saveBook = async function(id, title, author, rating, count, img) {
+const saveBook = async function(id, title, author, rating, count, img, source) {
   let success
-  const res = await sql(queries.saveBook, [id, title, author, rating, count, img])
+  const res = await sql(queries.saveBook, [id, title, author, rating, count, img, source])
   if (res.rowCount === 1) {
     console.log('Inserted successfully')
     success = 1
