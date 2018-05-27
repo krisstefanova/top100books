@@ -1,6 +1,6 @@
-const sql = require('../lib/sql.js')
+const sql = require('../lib/sql')
 const queries = require('./queries')
-const aggregator = require('./bookAggregator.js')
+const aggregator = require('./bookAggregator')
 
 const getAllBooks = async function() {
   const books = await sql(queries.allBooks)
